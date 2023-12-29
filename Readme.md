@@ -8,3 +8,17 @@ Czech default Linux layout ported to Windows
 4. Build the installer `Project` → `Build DLL and Setup Package`¨
 5. Run the installer
 6. Change your layout to `KBoard - České`
+
+## Layout showcase
+
+Default layout
+![Default layout](/images/default.png)
+
+<kbd>Shift</kbd> layout
+![Shift layout](/images/shift.png)
+
+<kbd>AltGr</kbd> layout
+![AltGr layout](/images/altgr.png)
+
+<kbd>Shift + AltGr</kbd> layout
+![Default layout](/images/altgr+shift.png)
